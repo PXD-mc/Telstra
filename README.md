@@ -1,2 +1,2 @@
 # Telstra
-Source code for the Telstra RBW bot.
+The code will be uploaded soon.
