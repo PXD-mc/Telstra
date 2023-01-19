@@ -6,7 +6,7 @@
 <h2> OBSOLETE PACKAGE VERSIONS USED </h2>
 <h3> some of the packages used are now obsolete as of 19/01/2023. </h3>
 
-- [discord.py 1.7.3 (my backup) ](https://github.com/PXD-mc/discord.py) or [discord.py 1.7.3 (original, this is now updated)](https://github.com/Rapptz/discord.py)
+- [discord.py 1.7.3 (my backup) ](https://github.com/PXD-mc/discord.py) or [discord.py 1.7.3 (original, this has now updated to a higher version)](https://github.com/Rapptz/discord.py)
 
 <h3> Installation </h3>
 
