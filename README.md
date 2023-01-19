@@ -1,2 +1,2 @@
 # Telstra
-The code will be uploaded soon.
+READ THE __LICENSE__.
