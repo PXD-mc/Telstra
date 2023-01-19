@@ -21,5 +21,5 @@ pip install git+https://github.com/PXD-mc/discord.py
 
 ```ruby
 pip install discord-components
-pip install https://github.com/PXD-mc/discord.py-components
+pip install git+https://github.com/PXD-mc/discord.py-components
 ```
