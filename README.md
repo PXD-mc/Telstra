@@ -2,7 +2,7 @@
 - READ THE LICENSE BEFORE USING THE CODE FOR ANY PURPOSE. THIS IS UNDER THE GPL-3.0 LICENSE.
 
 <h2> OBSOLETE PACKAGE VERSIONS USED </h2>
-- some of the packages used are now obsolete as of 19/01/2023.
+<h3> some of the packages used are now obsolete as of 19/01/2023. </h3>
 
 - [discord.py 1.7.3 (my backup) ](https://github.com/PXD-mc/discord.py) or [discord.py 1.7.3 (original, this is now updated)](https://github.com/Rapptz/discord.py)
 
