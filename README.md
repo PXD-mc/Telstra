@@ -1,5 +1,7 @@
 <h1> Telstra </h1>
-- READ THE LICENSE BEFORE USING THE CODE FOR ANY PURPOSE. THIS IS UNDER THE GPL-3.0 LICENSE.
+<h2> READ THE LICENSE BEFORE USING THE CODE FOR ANY PURPOSE. THIS IS UNDER THE GPL-3.0 LICENSE. </h2>
+
+<h3> This repository includes the code from the "Telstra" Ranked Bedwars bot which was created by me in collaboration with xCy8er (Cyber). You are allowed to use the code as long as you follow the license.
 
 <h2> OBSOLETE PACKAGE VERSIONS USED </h2>
 <h3> some of the packages used are now obsolete as of 19/01/2023. </h3>
