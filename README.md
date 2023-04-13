@@ -1,5 +1,5 @@
 <h1> Telstra </h1>
-<h3> READ THE LICENSE BEFORE USING THE CODE FOR ANY PURPOSE. THIS REPOSITORY IS UNDER THE GPL-3.0 LICENSE. </h3>
+<h3> READ THE LICENSE BEFORE USING THE CODE FOR ANY PURPOSE. THIS REPOSITORY IS UNDER THE GPL-2.0 LICENSE. </h3>
 
 <h4> This repository includes the code from the 'Telstra' Ranked Bedwars bot which was created by me in collaboration with xCy8er (Cyber) for the 'Telstra' discord server (discord.gg/DS7DbvHfDK). You are allowed to use the code as long as you do not violate the license. </h4>
 
